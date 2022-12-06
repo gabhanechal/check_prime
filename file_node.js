@@ -6,5 +6,6 @@ function checkPrime(num){
  }
 }if(count == 2){
   console.log("Yes")
-  }
+  }else{
+console.log("No")}
 
